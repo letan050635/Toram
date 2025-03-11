@@ -1,0 +1,16 @@
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\ToramFillCalculator.exe.config
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\ToramFillCalculator.exe
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\ToramFillCalculator.pdb
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.csproj.AssemblyReference.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.Properties.Resources.resources
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.csproj.GenerateResource.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.csproj.CoreCompileInputs.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.exe
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.pdb
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.Forms.MainForm.resources
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFillCalculator.Forms.OrdersForm.resources
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\System.Data.SqlClient.dll
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Release\System.Data.SqlClient.xml
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Release\ToramFil.6CD7528D.Up2Date

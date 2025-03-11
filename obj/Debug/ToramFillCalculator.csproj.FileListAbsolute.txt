@@ -1,0 +1,10 @@
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.csproj.AssemblyReference.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.Form1.resources
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.Properties.Resources.resources
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.csproj.GenerateResource.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.csproj.CoreCompileInputs.cache
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Debug\ToramFillCalculator.exe.config
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Debug\ToramFillCalculator.exe
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\bin\Debug\ToramFillCalculator.pdb
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.exe
+D:\worspace\New folder\ToramFillCalculator\ToramFillCalculator\obj\Debug\ToramFillCalculator.pdb
